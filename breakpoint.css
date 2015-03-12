@@ -1,0 +1,65 @@
+#jumbo {
+	background-image:url("images/beachtitle.jpg");
+	height:369px;
+	padding-top:50px;
+}
+
+#title-text {
+	color:#FFFFFA;
+	font-size:1.1em;
+}
+
+#jumbo-content {
+	padding-top:35px;
+}
+
+.navcolor {
+	background-color:#FFFFFF;
+}
+
+#subhead {
+	color:#575c5f;
+}
+
+.thumbbutton {
+	margin-left:50px;
+}
+
+.thumbnail img {
+	border-radius:3px;
+}
+
+.blogcaption {
+	font-size:0.7em;
+}
+
+.g2thumb {
+	float:right;
+	width:190px;
+	height:175px;
+	border:1px solid grey;
+	margin-left:5px;
+}
+
+.g2thumb p {
+	font-size:0.6em;
+	padding:7px 0 0 7px;
+}
+
+.g2thumbleft {
+	float:left;
+	width:190px;
+	height:175px;
+	border:1px solid grey;
+	margin-right:5px;
+	}
+	
+.g2thumbleft p {
+	font-size:0.6em;
+	padding:7px 0 0 7px;
+}
+
+#contactForm {
+	margin-bottom:25px;	
+}
+}

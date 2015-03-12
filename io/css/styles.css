@@ -1,0 +1,62 @@
+@CHARSET "UTF-8";
+
+.menuHeading a:visited {
+	
+	text-decoration:none;
+}
+
+.menuHeading a:hover {
+	
+	text-decoration:none;
+}
+
+.menuHeading a:active {
+	
+	text-decoration:none;
+}
+
+.formLabel {
+	font-size:0.8em;
+}
+
+#employeeType {
+	margin-bottom:10px;
+}
+
+#venueName {
+	width:325px;
+}
+
+#dropdown {
+	margin-bottom:5px;
+}
+
+#contact {
+	width:325px;
+}
+
+.memberInput {
+	padding:0px 10px 10px 5px;
+}
+
+#address {
+	width:325px;
+}
+
+.editBtn {
+	padding-left:5px;
+}
+
+.delBtn {
+	padding-right:5px;
+}
+
+#jobNumber {
+	width:50px;
+}
+
+#calendar {
+		max-width: 900px;
+		margin: 0 auto;
+	}
+

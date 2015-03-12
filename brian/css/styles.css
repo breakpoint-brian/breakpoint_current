@@ -1,0 +1,24 @@
+@CHARSET "UTF-8";
+
+.menuImage {
+	padding-top:15px;
+	padding-left:13px;
+}
+
+#fish {
+	width:450px;
+	height: 575px;
+}
+
+p {
+	font-size:15px;
+	font-family:arial;
+}
+
+code {
+	font-size:0.7em;
+}
+
+.tutimg {
+	border:1px solid black;
+}
